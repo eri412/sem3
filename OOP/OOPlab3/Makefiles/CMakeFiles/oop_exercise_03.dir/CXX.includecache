@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eri412/Desktop/study/OOP/OOPlab3/main.cpp
+iostream
+-
+string
+-
+utility
+-
+cmath
+-
+vector
+-
+stdio.h
+-
+limits
+-
+ios
+-
+
